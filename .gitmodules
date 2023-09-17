@@ -1,0 +1,6 @@
+[submodule "chirper-api"]
+	path = chirper-api
+	url = https://github.com/jglchen/chirper-api
+[submodule "chirper-next"]
+	path = chirper-next
+	url = https://github.com/jglchen/chirper-next
